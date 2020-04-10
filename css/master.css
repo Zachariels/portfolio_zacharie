@@ -1,8 +1,8 @@
 body{
-background: #D4EFF5;
+background: #E8F6FE;
 }
 section {
-  border-top: 1px solid #d3d3d3;
+  border-top: 1px solid #D4E8F4;
 min-height: 99vh
 }
 
@@ -30,7 +30,7 @@ figcaption{
 }
 
 #main-menu{
-  background: #B0E0E6;
+  background: #D4E8F4;
   position: absolute;
   top: 0;
   left:-300px;
@@ -131,3 +131,8 @@ z-index: 998;
 }
 #coca{
   width: 100%;
+  }
+
+#document{
+width: 70%;
+    }
